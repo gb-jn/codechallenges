@@ -1,4 +1,4 @@
-# Over The Wire Bandit Notes
+# Over The Wire - Bandit Server Notes
 ssh bandit.labs.overthewire.org -p 2220 -l bandit0
 
 ## Bandit 0  
